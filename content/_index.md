@@ -1,5 +1,5 @@
 ---
-description: Hi! I'm Aaron, a software engineer with a love of photography.
+description: Welcome to my photo journal.
 title: Travel Photography
 featured_image:  # default: first image in this directory
 menus:
